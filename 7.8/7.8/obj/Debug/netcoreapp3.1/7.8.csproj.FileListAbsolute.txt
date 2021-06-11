@@ -1,0 +1,13 @@
+C:\Users\Pingo\source\repos\7.8\7.8\bin\Debug\netcoreapp3.1\7.8.exe
+C:\Users\Pingo\source\repos\7.8\7.8\bin\Debug\netcoreapp3.1\7.8.deps.json
+C:\Users\Pingo\source\repos\7.8\7.8\bin\Debug\netcoreapp3.1\7.8.runtimeconfig.json
+C:\Users\Pingo\source\repos\7.8\7.8\bin\Debug\netcoreapp3.1\7.8.runtimeconfig.dev.json
+C:\Users\Pingo\source\repos\7.8\7.8\bin\Debug\netcoreapp3.1\7.8.dll
+C:\Users\Pingo\source\repos\7.8\7.8\bin\Debug\netcoreapp3.1\7.8.pdb
+C:\Users\Pingo\source\repos\7.8\7.8\obj\Debug\netcoreapp3.1\7.8.csprojAssemblyReference.cache
+C:\Users\Pingo\source\repos\7.8\7.8\obj\Debug\netcoreapp3.1\7.8.AssemblyInfoInputs.cache
+C:\Users\Pingo\source\repos\7.8\7.8\obj\Debug\netcoreapp3.1\7.8.AssemblyInfo.cs
+C:\Users\Pingo\source\repos\7.8\7.8\obj\Debug\netcoreapp3.1\7.8.csproj.CoreCompileInputs.cache
+C:\Users\Pingo\source\repos\7.8\7.8\obj\Debug\netcoreapp3.1\7.8.dll
+C:\Users\Pingo\source\repos\7.8\7.8\obj\Debug\netcoreapp3.1\7.8.pdb
+C:\Users\Pingo\source\repos\7.8\7.8\obj\Debug\netcoreapp3.1\7.8.genruntimeconfig.cache
