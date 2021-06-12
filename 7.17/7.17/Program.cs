@@ -21,27 +21,36 @@ namespace l7t17
         public static void Main(string[] args)
         {
             /* Добавьте свой код ниже */
-          
-           
-            for (int i = 0; i < personsInDaClub.Count+1; i++)
+            for (int i = 1; i < 16; i++)
             {
-                personsInDaClub.Add(i, FaceControl(new Person()));
+                Person person = new Person();
+                bool a = FaceControl(person);
+                if (a == true)
+                {
+                    personsInDaClub.Add(i,person);
+                    
+                }
+                else
+                {
+                    i--;
+                }
             }
+            
             foreach (KeyValuePair<int, Person> keyValue in personsInDaClub)
             {
                 Console.WriteLine(keyValue.Key + " - " + keyValue.Value.Age + "-" + keyValue.Value.Cash);
             }
 
         }
-        public static Person FaceControl(Person person)
+        public static bool FaceControl(Person person)
         {
             if (person.Age>=18 && person.Cash>=250)
             {
-                return person;
+                return true;
             }
             else
             {
-                return null;
+                return false;
             }
         }
     }
