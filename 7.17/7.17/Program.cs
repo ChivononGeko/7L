@@ -21,18 +21,14 @@ namespace l7t17
         public static void Main(string[] args)
         {
             /* Добавьте свой код ниже */
-            for (int i = 1; i < 16; i++)
+            int i=1;
+            while (i<16)
             {
                 Person person = new Person();
-                bool a = FaceControl(person);
-                if (a == true)
+                if (FaceControl(person))
                 {
-                    personsInDaClub.Add(i,person);
-                    
-                }
-                else
-                {
-                    i--;
+                    personsInDaClub.Add(i, person);
+                    i++;
                 }
             }
             
